@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
+import CopyEmailButton from './CopyEmailButton'
 
 export default function ModernHome() {
   return (
@@ -13,9 +14,7 @@ export default function ModernHome() {
           <p className="text-xl italic font-serif text-[#282828]/70 mt-1">head of imagineering</p>
         </div>
         <div className="mt-4 md:mt-0">
-          <a href="mailto:vskleyko@gmail.com" className="rm-link text-lg font-medium font-mono">
-            vskleyko@gmail.com
-          </a>
+          <CopyEmailButton className="rm-link text-lg font-medium font-mono" />
         </div>
       </header>
 

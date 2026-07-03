@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { activeCases } from '@/lib/works-data'
+import CopyEmailButton from '../components/CopyEmailButton'
 
 export default function WorksPage() {
   return (
@@ -70,9 +71,7 @@ export default function WorksPage() {
           <Link href="/" className="rm-link">
             Main page
           </Link>
-          <a href="mailto:vskleyko@gmail.com" className="rm-link">
-            Email
-          </a>
+          <CopyEmailButton className="rm-link" />
         </div>
       </footer>
       </div>

@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
+import CopyEmailButton from './CopyEmailButton'
 
 export default function ReadymagHome() {
   return (
@@ -228,9 +229,7 @@ export default function ReadymagHome() {
 
             {/* Email */}
             <div className="absolute left-[268px] top-[285px] w-[480px] text-center">
-              <a href="mailto:vskleyko@gmail.com" className="text-[18px] font-normal font-sans hover:opacity-70 underline">
-                vskleyko@gmail.com
-              </a>
+              <CopyEmailButton className="text-[18px] font-normal font-sans hover:opacity-70 underline" />
             </div>
 
             {/* Social Icons */}
@@ -374,9 +373,7 @@ export default function ReadymagHome() {
         <div className="text-center space-y-6 pt-8 border-t border-black/10">
           <h2 className="text-2xl font-bold font-mono uppercase">CONTACTS</h2>
           <div>
-            <a href="mailto:vskleyko@gmail.com" className="text-lg hover:opacity-70 underline">
-              vskleyko@gmail.com
-            </a>
+            <CopyEmailButton className="text-lg hover:opacity-70 underline" />
           </div>
           <div className="flex justify-center gap-8">
             <a href="https://www.facebook.com/profile.php?id=100012842322079" target="_blank" rel="noopener noreferrer">
