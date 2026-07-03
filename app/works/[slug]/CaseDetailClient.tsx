@@ -215,54 +215,75 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                   .filter(Boolean)
                   .map(p => p.startsWith('<p>') ? p + '</p>' : '<p>' + p + '</p>')
 
+                // Separate intro (English context) from the manifesto lines (Russian)
+                const introParas: string[] = []
+                const manifestoParas: string[] = []
+                let manifestoStarted = false
+
+                for (const p of paragraphs) {
+                  const t = getPlainText(p)
+                  if (!manifestoStarted && /[а-яА-ЯёЁ]/.test(t)) {
+                    manifestoStarted = true
+                  }
+                  if (manifestoStarted) {
+                    manifestoParas.push(p)
+                  } else {
+                    introParas.push(p)
+                  }
+                }
+
+                const hasManifesto = manifestoParas.length > 0
+
                 return (
                   <div 
                     key={idx} 
-                    className={`w-full text-left flex justify-start`}
+                    className="w-full text-left flex justify-start"
                   >
-                    <div className="max-w-2xl w-full space-y-4">
-                      {paragraphs.map((pHtml, pIdx) => {
-                        const pText = getPlainText(pHtml)
-                        const isRussian = /[а-яА-ЯёЁ]/.test(pText)
-                        
-                        if (isRussian) {
-                          const translatedText = translationMap[pText] || translationMap[pText.replace(/\s+/g, ' ')] || pText
-                          return (
-                            <div 
-                              key={pIdx} 
-                              className="font-inter text-base md:text-lg text-[#282828]/85 leading-relaxed"
-                            >
-                              {translated ? translatedText : pText}
-                            </div>
-                          )
-                        } else {
-                          const isIntro = pText.includes('manifesto was')
-                          if (isIntro) {
+                    <div className="max-w-2xl w-full space-y-3">
+                      {/* Intro text in Inter */}
+                      {introParas.map((pHtml, pIdx) => (
+                        <div
+                          key={pIdx}
+                          className="font-inter text-[14px] text-[#282828]/95 leading-relaxed"
+                          dangerouslySetInnerHTML={{ __html: pHtml }}
+                        />
+                      ))}
+
+                      {/* Manifesto lines */}
+                      {hasManifesto && (
+                        <div className="space-y-2 pt-2">
+                          {manifestoParas.map((pHtml, pIdx) => {
+                            const pText = getPlainText(pHtml)
+                            const isRussian = /[а-яА-ЯёЁ]/.test(pText)
+                            const translatedText = isRussian
+                              ? (translationMap[pText] || translationMap[pText.replace(/\s+/g, ' ')] || pText)
+                              : pText
+
+                            const displayText = translated ? pText : translatedText
+                            // translated=false → English (default), translated=true → Russian original
+
                             return (
-                              <div 
-                                key={pIdx} 
-                                className="font-serif text-lg md:text-xl text-[#282828]/95 leading-relaxed flex items-baseline flex-wrap gap-3"
+                              <div
+                                key={pIdx}
+                                className="font-inter text-[14px] text-[#282828]/85 leading-relaxed"
                               >
-                                <span dangerouslySetInnerHTML={{ __html: pHtml }} />
-                                <button 
-                                  onClick={() => setTranslated(!translated)} 
-                                  className="text-[10px] uppercase font-sans font-bold tracking-wider px-2 py-0.5 bg-[#282828]/10 hover:bg-[#282828]/20 text-[#282828] rounded cursor-pointer transition-colors"
-                                >
-                                  {translated ? 'show russian' : 'translate'}
-                                </button>
+                                {displayText}
                               </div>
                             )
-                          }
-                          
-                          return (
-                            <div 
-                              key={pIdx} 
-                              className="font-serif text-lg md:text-xl text-[#282828]/95 leading-relaxed"
-                              dangerouslySetInnerHTML={{ __html: pHtml }}
-                            />
-                          )
-                        }
-                      })}
+                          })}
+
+                          {/* Toggle button after manifesto */}
+                          <div className="pt-4">
+                            <button
+                              onClick={() => setTranslated(!translated)}
+                              className="text-[11px] uppercase font-inter font-semibold tracking-wider px-3 py-1 bg-[#282828]/10 hover:bg-[#282828]/20 text-[#282828] rounded cursor-pointer transition-colors"
+                            >
+                              {translated ? 'back to english' : 'show original'}
+                              {/* translated=false=English shows 'show original'; translated=true=Russian shows 'back to english' */}
+                            </button>
+                          </div>
+                        </div>
+                      )}
                     </div>
                   </div>
                 )
