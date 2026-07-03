@@ -230,7 +230,7 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                           return (
                             <div 
                               key={pIdx} 
-                              className="font-inter text-base md:text-[18px] text-[#282828]/90 leading-relaxed font-sans"
+                              className="font-inter text-lg md:text-xl text-[#282828]/95 leading-relaxed font-sans"
                             >
                               {translated ? translatedText : pText}
                             </div>
