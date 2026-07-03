@@ -135,7 +135,7 @@ export default function ModernHome() {
             <div className="aspect-[4/3] bg-[#ffe11e] flex items-center justify-center p-6 border border-[#282828]/10 overflow-hidden relative card-hover-effect">
               <div className="relative w-full h-full transform group-hover:scale-105 transition-transform duration-500">
                 <Image 
-                  src="/images/img_cf1a57ecd5d1a67e0c2c096e5bd9f0e8.jpg" 
+                  src="/images/img_5317c3f449076ab5dd6d7a0fc9aaf9c6.png" 
                   alt="Wink UFC"
                   fill
                   className="object-cover"
@@ -153,7 +153,7 @@ export default function ModernHome() {
             <div className="aspect-[4/3] bg-[#ffe11e] flex items-center justify-center p-6 border border-[#282828]/10 overflow-hidden relative card-hover-effect">
               <div className="relative w-full h-full transform group-hover:scale-105 transition-transform duration-500">
                 <Image 
-                  src="/images/img_2d940ddbd1d0ceaf06c5d7bbb5f13c90.jpg" 
+                  src="/images/img_9dd634012b019cd6a57220ac8a8ac1c8.jpg" 
                   alt="Disney"
                   fill
                   className="object-cover"
@@ -171,7 +171,7 @@ export default function ModernHome() {
             <div className="aspect-[4/3] bg-[#ffe11e] flex items-center justify-center p-6 border border-[#282828]/10 overflow-hidden relative card-hover-effect">
               <div className="relative w-full h-full transform group-hover:scale-105 transition-transform duration-500">
                 <Image 
-                  src="/images/img_e2b374cc684af2523bc9c52ec71ded69.png" 
+                  src="/images/img_b68015975ec95fa58db691e53aa33067.png" 
                   alt="Beauty Bomb"
                   fill
                   className="object-cover"
