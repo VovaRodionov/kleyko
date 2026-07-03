@@ -242,23 +242,23 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                   const interStyle = { fontFamily: "'Inter', sans-serif" }
 
                   return (
-                    <div 
-                      key={idx} 
-                      className="w-full text-left flex justify-start"
-                    >
-                      <div className="max-w-2xl w-full space-y-3">
-                        {/* Intro text in Inter */}
-                        {introParas.map((pHtml, pIdx) => (
+                    <>
+                      {/* Intro text — standard Courier styles */}
+                      {introParas.length > 0 && (
+                        <div
+                          key={`${idx}-intro`}
+                          className="w-full font-serif text-lg md:text-xl text-[#282828]/95 leading-relaxed flex text-left"
+                        >
                           <div
-                            key={pIdx}
-                            style={interStyle}
-                            className="text-[14px] text-[#282828]/95 leading-relaxed"
-                            dangerouslySetInnerHTML={{ __html: pHtml }}
+                            className="max-w-2xl w-full"
+                            dangerouslySetInnerHTML={{ __html: introParas.join('') }}
                           />
-                        ))}
+                        </div>
+                      )}
 
-                        {/* Manifesto lines */}
-                        <div className="space-y-2 pt-2">
+                      {/* Manifesto — Inter, with toggle */}
+                      <div key={`${idx}-manifesto`} className="w-full text-left flex justify-start">
+                        <div className="max-w-2xl w-full space-y-2">
                           {manifestoParas.map((pHtml, pIdx) => {
                             const pText = getPlainText(pHtml)
                             const isRussian = /[а-яА-ЯёЁ]/.test(pText)
@@ -267,7 +267,6 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                               : pText
 
                             const displayText = translated ? pText : translatedText
-                            // translated=false → English (default), translated=true → Russian original
 
                             return (
                               <div
@@ -292,7 +291,7 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                           </div>
                         </div>
                       </div>
-                    </div>
+                    </>
                   )
                 }
               }
