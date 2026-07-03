@@ -62,8 +62,8 @@ export default function ModernHome() {
         <h3 className="text-xl font-bold uppercase tracking-wider mb-8 text-[#282828]/50">teaching &amp; courses</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {/* HSE */}
-          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
-            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+          <div className="flex gap-4 items-start">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0 mt-0.5">
               <Image
                 src="/images/img_9b5ea99812d16937ecfe1d7c3dfc9181.png"
                 alt="HSE University"
@@ -81,8 +81,8 @@ export default function ModernHome() {
           </div>
 
           {/* Skillbox */}
-          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
-            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+          <div className="flex gap-4 items-start">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0 mt-0.5">
               <Image
                 src="/images/img_613c0a7e8cdf6012e127c04b3213bb2d.png"
                 alt="Skillbox"
@@ -100,8 +100,8 @@ export default function ModernHome() {
           </div>
 
           {/* TikTok */}
-          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
-            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+          <div className="flex gap-4 items-start">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0 mt-0.5">
               <Image
                 src="/images/img_9449e2fdddca37290ee5d2fda9cbe284.png"
                 alt="TikTok for Business"
