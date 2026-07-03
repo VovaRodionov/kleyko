@@ -26,7 +26,7 @@ export default function CopyEmailButton({ className = '' }: CopyEmailButtonProps
         className={`cursor-pointer transition-all focus:outline-none ${className}`}
         type="button"
       >
-        copy my email
+        COPY EMAIL
       </button>
       
       {/* Tooltip */}
