@@ -1,5 +1,5 @@
-import HomeClientWrapper from './components/HomeClientWrapper'
+import ModernHome from './components/ModernHome'
 
 export default function Home() {
-  return <HomeClientWrapper />
+  return <ModernHome />
 }
