@@ -4,6 +4,7 @@
   --font-sans: var(--font-sans), "Courier New", Courier, monospace;
   --font-serif: var(--font-sans), "Courier New", Courier, monospace;
   --font-mono: var(--font-sans), "Courier New", Courier, monospace;
+  --font-inter: var(--font-inter), sans-serif;
 }
 
 :root {
