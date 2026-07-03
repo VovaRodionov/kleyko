@@ -234,26 +234,30 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
 
                 const hasManifesto = manifestoParas.length > 0
 
-                const interStyle = { fontFamily: "'Inter', sans-serif" }
+                // Only apply Inter treatment to blocks with Russian manifesto text
+                // Pure-English blocks fall through to standard rendering below
+                if (!hasManifesto) {
+                  // fall through to standard rendering
+                } else {
+                  const interStyle = { fontFamily: "'Inter', sans-serif" }
 
-                return (
-                  <div 
-                    key={idx} 
-                    className="w-full text-left flex justify-start"
-                  >
-                    <div className="max-w-2xl w-full space-y-3">
-                      {/* Intro text in Inter */}
-                      {introParas.map((pHtml, pIdx) => (
-                        <div
-                          key={pIdx}
-                          style={interStyle}
-                          className="text-[14px] text-[#282828]/95 leading-relaxed"
-                          dangerouslySetInnerHTML={{ __html: pHtml }}
-                        />
-                      ))}
+                  return (
+                    <div 
+                      key={idx} 
+                      className="w-full text-left flex justify-start"
+                    >
+                      <div className="max-w-2xl w-full space-y-3">
+                        {/* Intro text in Inter */}
+                        {introParas.map((pHtml, pIdx) => (
+                          <div
+                            key={pIdx}
+                            style={interStyle}
+                            className="text-[14px] text-[#282828]/95 leading-relaxed"
+                            dangerouslySetInnerHTML={{ __html: pHtml }}
+                          />
+                        ))}
 
-                      {/* Manifesto lines */}
-                      {hasManifesto && (
+                        {/* Manifesto lines */}
                         <div className="space-y-2 pt-2">
                           {manifestoParas.map((pHtml, pIdx) => {
                             const pText = getPlainText(pHtml)
@@ -284,14 +288,13 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                               className="text-[11px] uppercase font-semibold tracking-wider px-3 py-1 bg-[#282828]/10 hover:bg-[#282828]/20 text-[#282828] rounded cursor-pointer transition-colors"
                             >
                               {translated ? 'back to english' : 'show original'}
-                              {/* translated=false=English shows 'show original'; translated=true=Russian shows 'back to english' */}
                             </button>
                           </div>
                         </div>
-                      )}
+                      </div>
                     </div>
-                  </div>
-                )
+                  )
+                }
               }
 
               const alignClass = 
