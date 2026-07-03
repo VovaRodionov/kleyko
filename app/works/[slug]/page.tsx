@@ -104,33 +104,26 @@ export default async function CaseDetailPage({ params }: PageProps) {
     )
   }
 
-  const currentCase = activeCases.find((c) => c.slug === slug)
-  const isFestival = currentCase?.title === 'Festival concept'
+  const cleanText = (txt: string) => {
+    return txt.replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim()
+  }
 
-  let festivalTitle = ''
-  let festivalSubtitle = ''
+  let caseTitle = ''
+  let caseSubtitle = ''
   const blocksToRender = [...groupedBlocks]
 
-  if (isFestival) {
-    // Find the first text block
-    const firstTextIdx = blocksToRender.findIndex((b) => b.type === 'text')
-    if (firstTextIdx !== -1 && blocksToRender[firstTextIdx].text.toUpperCase().includes('FESTIVAL CASE')) {
-      festivalTitle = blocksToRender[firstTextIdx].text
-      blocksToRender.splice(firstTextIdx, 1)
+  // Find the first text block
+  const firstTextIdx = blocksToRender.findIndex((b) => b.type === 'text')
+  if (firstTextIdx !== -1) {
+    caseTitle = cleanText(blocksToRender[firstTextIdx].text)
+    blocksToRender.splice(firstTextIdx, 1)
 
-      // Check if the next block is also a short text block (subtitle)
-      if (firstTextIdx < blocksToRender.length && blocksToRender[firstTextIdx].type === 'text') {
-        const nextBlockText = blocksToRender[firstTextIdx].text.trim()
-        if (
-          nextBlockText.includes('Young Glory') ||
-          nextBlockText.includes('MADS') ||
-          nextBlockText.includes('shortlist') ||
-          nextBlockText.includes('Bronze') ||
-          nextBlockText.length < 35
-        ) {
-          festivalSubtitle = nextBlockText
-          blocksToRender.splice(firstTextIdx, 1)
-        }
+    // Check if the next block is also a text block (subtitle)
+    if (firstTextIdx < blocksToRender.length && blocksToRender[firstTextIdx].type === 'text') {
+      const nextBlockText = cleanText(blocksToRender[firstTextIdx].text)
+      if (!nextBlockText.endsWith(':') && nextBlockText.length < 150) {
+        caseSubtitle = nextBlockText
+        blocksToRender.splice(firstTextIdx, 1)
       }
     }
   }
@@ -155,14 +148,14 @@ export default async function CaseDetailPage({ params }: PageProps) {
 
       {/* Dynamic Content Stream */}
       <article className="flex-grow space-y-6 flex flex-col items-center">
-        {isFestival && festivalTitle && (
+        {caseTitle && (
           <div className="w-full text-center mb-12">
             <h1 className="text-3xl md:text-[40px] font-bold uppercase tracking-wide leading-tight font-mono mb-4 text-[#282828]">
-              {festivalTitle}
+              {caseTitle}
             </h1>
-            {festivalSubtitle && (
+            {caseSubtitle && (
               <p className="text-lg md:text-[21px] font-normal tracking-wide text-[#282828]/70 font-mono mt-2">
-                {festivalSubtitle}
+                {caseSubtitle}
               </p>
             )}
           </div>
