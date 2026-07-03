@@ -76,7 +76,7 @@ export default function ModernHome() {
                 <h4 className="font-bold text-lg leading-tight">HSE</h4>
                 <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Russia</span>
               </div>
-              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity in digital"</p>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">Creativity in digital</p>
             </div>
           </div>
 
@@ -95,7 +95,7 @@ export default function ModernHome() {
                 <h4 className="font-bold text-lg leading-tight">Skillbox</h4>
                 <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Russia</span>
               </div>
-              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity in SMM"</p>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">Creativity in SMM</p>
             </div>
           </div>
 
@@ -114,7 +114,7 @@ export default function ModernHome() {
                 <h4 className="font-bold text-lg leading-tight">TikTok</h4>
                 <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Europe</span>
               </div>
-              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity for business"</p>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">Creativity for business</p>
             </div>
           </div>
         </div>
