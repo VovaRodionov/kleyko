@@ -61,3 +61,8 @@
 .comment-content-center p {
   text-align: center !important;
 }
+
+/* Manifesto block: Inter by explicit name to prevent Courier glyphs winning for ASCII punctuation */
+.manifesto-inter {
+  font-family: 'Inter', var(--font-inter), sans-serif;
+}
