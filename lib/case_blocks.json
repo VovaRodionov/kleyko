@@ -1,0 +1,1722 @@
+{
+  "artsimptoms": {
+    "title": "ARTSIMPTOMS",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR INVITRO</span></p>",
+        "text": "FESTIVAL CASE FOR INVITRO",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_5568d9f9d75b10da0a9f3861e0a008ad.jpg",
+        "width": 1445,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 1187,
+        "left": 100,
+        "html": "<p><span>COMMENTS</span></p>",
+        "text": "COMMENTS",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1484,
+        "left": 0,
+        "html": "<p><span>Kevin Brady, <br>creative director droga 5 NY</span></p><p><span>Interesting.</span></p>",
+        "text": "Kevin Brady, creative director droga 5 NY Interesting.",
+        "align": "center",
+        "photo": "/images/kevin_brady.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1484,
+        "left": 312,
+        "html": "<p><span>Anton Shaporenko, <br>creative director Geometry global</span></p><p><span>Shotlist. Great idea, it can be implemented in many different ways. Good naming and design.</span></p>",
+        "text": "Anton Shaporenko, creative director Geometry global Shotlist. Great idea, it can be implemented in many different ways. Good naming and design.",
+        "align": "center",
+        "photo": "/images/anton_shaporenko.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1484,
+        "left": 710,
+        "html": "<p><span>Vlad Sitnikov, <br>CCO Possible group</span></p><p><span>Shortlist.</span></p>",
+        "text": "Vlad Sitnikov, CCO Possible group Shortlist.",
+        "align": "center",
+        "photo": "/images/vlad_sitnikov.jpg"
+      }
+    ]
+  },
+  "backtoread": {
+    "title": "BACKTOREAD",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR BOOKMATE</span></p>",
+        "text": "FESTIVAL CASE FOR BOOKMATE",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_c57f85cd5846d3c07baed1ecc4c6af96.jpg",
+        "width": 1445,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 1200,
+        "left": 100,
+        "html": "<p><span>COMMENTS</span></p>",
+        "text": "COMMENTS",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1469,
+        "left": 0,
+        "html": "<p><span>Anton Busygin, <br>creative director 2sharp</span></p><p><span>Bronze. Very interesting solution. <br>I don\u2019t know how it could be done, but it's <br>a great feature for the application,. </span></p>",
+        "text": "Anton Busygin, creative director 2sharp Bronze. Very interesting solution. I don\u2019t know how it could be done, but it's a great feature for the application,.",
+        "align": "center",
+        "photo": "/images/anton_busygin.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1469,
+        "left": 350,
+        "html": "<p><span>Anton Shaporenko, <br>creative director Geometry global</span></p><p><span>Good name.</span></p>",
+        "text": "Anton Shaporenko, creative director Geometry global Good name.",
+        "align": "center",
+        "photo": "/images/anton_shaporenko.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1469,
+        "left": 693,
+        "html": "<p><span>Polina Zabrodskaya, <br>creative director Publicis London</span></p><p><span>Shortlist.</span></p>",
+        "text": "Polina Zabrodskaya, creative director Publicis London Shortlist.",
+        "align": "center",
+        "photo": "/images/polina_zabrodskaya.jpg"
+      }
+    ]
+  },
+  "beautybomb": {
+    "title": "BEAUTYBOMB",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>DIGITAL CASE</span></p><p><span>FOR BEAUTY BOMB</span></p>",
+        "text": "DIGITAL CASE FOR BEAUTY BOMB",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>cosmetics for teens</span></p><p><span>&nbsp;</span></p>",
+        "text": "cosmetics for teens &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 329,
+        "left": 0,
+        "youtube_id": "sGex1t_ngJI"
+      },
+      {
+        "type": "text",
+        "top": 941,
+        "left": 149,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 996,
+        "left": 148,
+        "html": "<p>Beauty Bomb was a new cosmetic brand that is targeting the low budget segment. It's very cheap and bright \u2014 perfect for teens, but we had to convince them that they should turn their attention to Beauty Bomb, which was just launched in Russia.</p>",
+        "text": "Beauty Bomb was a new cosmetic brand that is targeting the low budget segment. It's very cheap and bright \u2014 perfect for teens, but we had to convince them that they should turn their attention to Beauty Bomb, which was just launched in Russia.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1141,
+        "left": 149,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1201,
+        "left": 149,
+        "html": "<p>Teenage girls watch video tutorials of the beauty bloggers and try to do fashionable makeup, but they are too shy to go out with it.<br><br>Therefore, in social networks, we have created a platform that unites all these girls and tells them that there are no rules in beauty, and it doesn\u2019t matter what Mom or teachers at school will say about your appearance. </p><p><br>Girls perform various beauty-challenges with Beauty Bomb cosmetics, share their make up, check out diverse and bold results of the other participants, in order to overcome their fear of judgemental comments and become a part of a large beauty gang.&nbsp;</p><p><span>&nbsp;</span></p>",
+        "text": "Teenage girls watch video tutorials of the beauty bloggers and try to do fashionable makeup, but they are too shy to go out with it. Therefore, in social networks, we have created a platform that unites all these girls and tells them that there are no rules in beauty, and it doesn\u2019t matter what Mom or teachers at school will say about your appearance. Girls perform various beauty-challenges with Beauty Bomb cosmetics, share their make up, check out diverse and bold results of the other participants, in order to overcome their fear of judgemental comments and become a part of a large beauty gang.&nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1504,
+        "left": 149,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1564,
+        "left": 150,
+        "html": "<p>Creating the concept of all digital communications, e.g.</p><p>- idea</p><p>- concept of visual style</p><p>- activations to launch brand &amp; new collections</p><p>- development of UGC-activities</p><p>- video script writing</p><p>- pitching for client<br>- supervising content production</p><p><span>&nbsp;</span></p>",
+        "text": "Creating the concept of all digital communications, e.g. - idea - concept of visual style - activations to launch brand &amp; new collections - development of UGC-activities - video script writing - pitching for client - supervising content production &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1801,
+        "left": 149,
+        "html": "<p><span>RESULTS:</span></p>",
+        "text": "RESULTS:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1862,
+        "left": 150,
+        "html": "<p>- 2 weeks after the release of the brand, cosmetics were sold out throughout Russia <br>- Until now, the brand exists with the platform #BeautyWithoutRules and enjoys huge popularity throughout the country</p><p><span>&nbsp;</span></p>",
+        "text": "- 2 weeks after the release of the brand, cosmetics were sold out throughout Russia - Until now, the brand exists with the platform #BeautyWithoutRules and enjoys huge popularity throughout the country &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 2017,
+        "left": 149,
+        "html": "<p><span>SCREENSHOTS:</span></p>",
+        "text": "SCREENSHOTS:",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 2089,
+        "left": 118,
+        "src": "/images/img_d2204aeb1fadd233eadbd08a7d2895ab.png",
+        "width": 271,
+        "height": 270
+      },
+      {
+        "type": "video",
+        "top": 2090,
+        "left": 419,
+        "youtube_id": "WsD-uR_bW3w"
+      },
+      {
+        "type": "video",
+        "top": 2385,
+        "left": 118,
+        "youtube_id": "GZQzKUipqwA"
+      },
+      {
+        "type": "image",
+        "top": 2386,
+        "left": 419,
+        "src": "/images/img_2c8c90a98a11e9ff700bb72e104c0d5d.png",
+        "width": 270,
+        "height": 333
+      },
+      {
+        "type": "image",
+        "top": 2388,
+        "left": 719,
+        "src": "/images/img_94f3ee657e1efacae1c06f5dc1583991.png",
+        "width": 270,
+        "height": 277
+      },
+      {
+        "type": "image",
+        "top": 2693,
+        "left": 718,
+        "src": "/images/img_e2b374cc684af2523bc9c52ec71ded69.png",
+        "width": 270,
+        "height": 385
+      },
+      {
+        "type": "image",
+        "top": 2746,
+        "left": 419,
+        "src": "/images/img_27b0c840b1f562264b4e09ceca359171.png",
+        "width": 269,
+        "height": 333
+      },
+      {
+        "type": "image",
+        "top": 2835,
+        "left": 118,
+        "src": "/images/img_5f054f0cc43144d6a9259e6a95ed3913.png",
+        "width": 270,
+        "height": 244
+      },
+      {
+        "type": "video",
+        "top": 3106,
+        "left": 118,
+        "youtube_id": "ov5KSfRokeU"
+      }
+    ]
+  },
+  "bugmac": {
+    "title": "BUGMAC",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR MCDONALDS</span></p>",
+        "text": "FESTIVAL CASE FOR MCDONALDS",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2019</span></p>",
+        "text": "Young Glory - 2019",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_5eb1e6c50cd90c70d35ed91a200ea490.png",
+        "width": 1445,
+        "height": 813
+      }
+    ]
+  },
+  "danune": {
+    "title": "DANUNE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR YANDEX.MARKET</span></p>",
+        "text": "FESTIVAL CASE FOR YANDEX.MARKET",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 249,
+        "left": 0,
+        "src": "/images/img_fde4a392daaa1e983f4f5fe623c6c451.png",
+        "width": 1024,
+        "height": 576
+      }
+    ]
+  },
+  "foodofthefuture": {
+    "title": "FOODOFTHEFUTURE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR KARO</span></p>",
+        "text": "FESTIVAL CASE FOR KARO",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2019</span></p>",
+        "text": "Young Glory - 2019",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 295,
+        "left": -190,
+        "src": "/images/img_ffd58f6e0af6227a6c647fbee6cc4656.png",
+        "width": 1410,
+        "height": 793
+      }
+    ]
+  },
+  "gameforeveryone": {
+    "title": "GAMEFOREVERYONE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR LEGO</span></p>",
+        "text": "FESTIVAL CASE FOR LEGO",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2019</span></p>",
+        "text": "Young Glory - 2019",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_2da21f251b2febbbf4f067e4752a8051.jpg",
+        "width": 1445,
+        "height": 813
+      }
+    ]
+  },
+  "grilledtweets": {
+    "title": "GRILLEDTWEETS",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR BURGER KING</span></p>",
+        "text": "FESTIVAL CASE FOR BURGER KING",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>shortlist on MADS</span></p>",
+        "text": "shortlist on MADS",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_7300f75a199530c9ede77d431d335825.jpg",
+        "width": 1445,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 1214,
+        "left": 100,
+        "html": "<p><span>COMMENTS</span></p>",
+        "text": "COMMENTS",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1511,
+        "left": 0,
+        "html": "<p><span>Kevin Brady, <br>creative director droga 5 NY</span></p><p><span>Funny. Short-ish.</span></p>",
+        "text": "Kevin Brady, creative director droga 5 NY Funny. Short-ish.",
+        "align": "center",
+        "photo": "/images/kevin_brady.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1511,
+        "left": 350,
+        "html": "<p><span>Anton Shaporenko, <br>creative director Geometry global</span></p><p><span>Shotlist. Great idea. Great board.</span></p>",
+        "text": "Anton Shaporenko, creative director Geometry global Shotlist. Great idea. Great board.",
+        "align": "center",
+        "photo": "/images/anton_shaporenko.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1511,
+        "left": 710,
+        "html": "<p><span>Vlad Sitnikov, <br>CCO Possible group</span></p><p><span>Shortlist.</span></p>",
+        "text": "Vlad Sitnikov, CCO Possible group Shortlist.",
+        "align": "center",
+        "photo": "/images/vlad_sitnikov.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1867,
+        "left": 62,
+        "html": "<p><span>Augusto Moreno Dos Anjos, </span></p><p><span>creative director </span></p><p><span>ADV digital</span></p><p><span>Shotlist. Nice.</span></p>",
+        "text": "Augusto Moreno Dos Anjos, creative director ADV digital Shotlist. Nice.",
+        "align": "center",
+        "photo": "/images/augusto_moreno.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1867,
+        "left": 362,
+        "html": "<p><span>Anton Busygin, </span></p><p><span>creative director 2sharp</span></p><p><span>Shortlist&nbsp;</span></p>",
+        "text": "Anton Busygin, creative director 2sharp Shortlist&nbsp;",
+        "align": "center",
+        "photo": "/images/anton_busygin.jpg"
+      }
+    ]
+  },
+  "hearmyvoice": {
+    "title": "HEARMYVOICE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR AMERICAN ELECTION</span></p>",
+        "text": "FESTIVAL CASE FOR AMERICAN ELECTION",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 203,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2020</span></p>",
+        "text": "Young Glory - 2020",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 307,
+        "left": -150,
+        "src": "/images/img_99803959e88d02fa7c5133424c2bad3f.png",
+        "width": 1299,
+        "height": 730
+      }
+    ]
+  },
+  "maketomorrow": {
+    "title": "MAKETOMORROW",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>B2B COMMS PLATFORM</span></p><p><span>FOR TIKTOK FOR BUSINESS</span></p>",
+        "text": "B2B COMMS PLATFORM FOR TIKTOK FOR BUSINESS",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>Cyprus</span></p><p><span>&nbsp;</span></p>",
+        "text": "Cyprus &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 241,
+        "left": 176,
+        "youtube_id": "BbnVu7Qhpp8"
+      },
+      {
+        "type": "text",
+        "top": 664,
+        "left": 149,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 720,
+        "left": 148,
+        "html": "<p>Create a concept of comms platform for highlighting the emerge of TikTok in Cyprus and support the first ever TikTok Cyprus Summit that helps local and global brands start their own business adventure with TikTok.</p>",
+        "text": "Create a concept of comms platform for highlighting the emerge of TikTok in Cyprus and support the first ever TikTok Cyprus Summit that helps local and global brands start their own business adventure with TikTok.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 840,
+        "left": 149,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 900,
+        "left": 149,
+        "html": "<p>The comms platform \"Make Tomorrow\". This concept combines the ability to show the innovation of TikTok, which has already been proven by a number of projects. As well as show the future opportunities for brands who want to grow their business and determine what tomorrow will be like for millions of people around the planet.</p><p>The platform combined an educational event, a promotional campaign about new business opportunities, and personal partner meetings with brands.</p>",
+        "text": "The comms platform \"Make Tomorrow\". This concept combines the ability to show the innovation of TikTok, which has already been proven by a number of projects. As well as show the future opportunities for brands who want to grow their business and determine what tomorrow will be like for millions of people around the planet. The platform combined an educational event, a promotional campaign about new business opportunities, and personal partner meetings with brands.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1116,
+        "left": 149,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1176,
+        "left": 150,
+        "html": "<p>Leading the in-house creative team, creating the concept of the event &amp; promo campaign, supervising production of all comms materials, collaborating with cross-functional departments </p>",
+        "text": "Leading the in-house creative team, creating the concept of the event &amp; promo campaign, supervising production of all comms materials, collaborating with cross-functional departments",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1277,
+        "left": 149,
+        "html": "<p><span>RESULTS:</span></p>",
+        "text": "RESULTS:",
+        "align": "left"
+      },
+      {
+        "type": "video",
+        "top": 1345,
+        "left": 0,
+        "youtube_id": "CeBR-1j14eE"
+      }
+    ]
+  },
+  "morethancookie": {
+    "title": "MORETHANCOOKIE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 77,
+        "left": 176,
+        "html": "<p><span>DIGITAL CASE</span></p><p><span>MORE THAN COOKIE</span></p>",
+        "text": "DIGITAL CASE MORE THAN COOKIE",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>for cookies \"\u041e\u0432\u0441\u044f\u043d\u044b\u0439 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\"</span></p><p><span>&nbsp;</span></p>",
+        "text": "for cookies \"\u041e\u0432\u0441\u044f\u043d\u044b\u0439 \u0437\u0430\u0432\u0442\u0440\u0430\u043a\" &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 371,
+        "left": 281,
+        "src": "/images/img_b98360ef0bba172909186b647b193c88.png",
+        "width": 452,
+        "height": 452
+      },
+      {
+        "type": "text",
+        "top": 977,
+        "left": 147,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1033,
+        "left": 147,
+        "html": "<p><span>Develop a non-standard idea with a minimum budget </span></p><p><span>for implementation for cookie Instagram account.</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>",
+        "text": "Develop a non-standard idea with a minimum budget for implementation for cookie Instagram account. &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1133,
+        "left": 147,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1193,
+        "left": 147,
+        "html": "<p><span>Idea for digital communication \u2013 \u201cMore than a cookie\u201d. It means that a cookie is a charge of energy to do something during the day. The visual concept is surreal collages, collaborations with contemporary artists, where the main element of the composition is cookie.</span></p>",
+        "text": "Idea for digital communication \u2013 \u201cMore than a cookie\u201d. It means that a cookie is a charge of energy to do something during the day. The visual concept is surreal collages, collaborations with contemporary artists, where the main element of the composition is cookie.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1385,
+        "left": 151,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1434,
+        "left": 148,
+        "html": "<p><span>Creating the concept for Instagram account:</span></p><p><span>- idea</span></p><p><span>- concept of visual style</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>",
+        "text": "Creating the concept for Instagram account: - idea - concept of visual style &nbsp; &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1613,
+        "left": 147,
+        "html": "<p><span>SCREENSHOTS:</span></p>",
+        "text": "SCREENSHOTS:",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1716,
+        "left": 88,
+        "src": "/images/img_2d9cfd7e0e48c280fe508029451e5bbf.png",
+        "width": 399,
+        "height": 391
+      },
+      {
+        "type": "image",
+        "top": 1716,
+        "left": 527,
+        "src": "/images/img_aa722181c508482774c5a52244b94b6d.png",
+        "width": 456,
+        "height": 568
+      },
+      {
+        "type": "image",
+        "top": 2147,
+        "left": 88,
+        "src": "/images/img_eadaa3efc1efd1eefe8947002b06e497.png",
+        "width": 399,
+        "height": 399
+      },
+      {
+        "type": "image",
+        "top": 2321,
+        "left": 527,
+        "src": "/images/img_2b6861247d69ce8de1365441f4509c78.png",
+        "width": 456,
+        "height": 456
+      }
+    ]
+  },
+  "native": {
+    "title": "NATIVE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 102,
+        "left": 176,
+        "html": "<div><p data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New'; font-weight: bold;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">NATIVE SPECIAL PROJECTS</span></p><p data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New'; font-weight: bold;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">IN LOOK AT MEDIA</span></p>",
+        "text": "NATIVE SPECIAL PROJECTS IN LOOK AT MEDIA",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 218,
+        "left": 267,
+        "html": "<div><p data-style-phone_portrait=\"text-align: center; line-height: 19px; font-size: 15px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New';\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">for the New Year</span></span></p><p data-style-phone_portrait=\"text-align: center; line-height: 26px; font-size: 21px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p>",
+        "text": "for the New Year &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 329,
+        "left": 0,
+        "src": "/images/img_17025dc906e77daea7e94bcea229ca7b.png",
+        "width": 575,
+        "height": 575
+      },
+      {
+        "type": "text",
+        "top": 385,
+        "left": 625,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Offer a native special project <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">in the New Year theme <br>for </span>Coca-Cola</span>.</span></span></p>",
+        "text": "Offer a native special project in the New Year theme for Coca-Cola .",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 543,
+        "left": 625,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Stories of people who work as Santa Claus and create a celebratory mood for others. The project ends with a test \u2013 \"Can you be a Santa?\"</span></p>",
+        "text": "Stories of people who work as Santa Claus and create a celebratory mood for others. The project ends with a test \u2013 \"Can you be a Santa?\"",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 777,
+        "left": 624,
+        "html": "<div><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">- Creating the concept </span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\">- Copywriting</p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></span></span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px; padding-bottom: 0px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px; padding-bottom: 0px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p>",
+        "text": "- Creating the concept - Copywriting &nbsp; &nbsp; &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1132,
+        "left": 449,
+        "src": "/images/img_f1d810cd0e04dd66a9cd6d453860eb5b.png",
+        "width": 575,
+        "height": 575
+      },
+      {
+        "type": "text",
+        "top": 1341,
+        "left": -60,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Instructions: how to make unbanal holiday selfie with <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">showing the settings of the camera at smartphone.</span></span></span></p>",
+        "text": "Instructions: how to make unbanal holiday selfie with showing the settings of the camera at smartphone.",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1905,
+        "left": 0,
+        "src": "/images/img_94965ef7c58009706a7274fec66f6fd1.png",
+        "width": 580,
+        "height": 578
+      },
+      {
+        "type": "text",
+        "top": 1961,
+        "left": 642,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Offer a native special project <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">in the New Year theme for the </span>festival \"Travel to Christmas\"</span>.</span></span></p>",
+        "text": "Offer a native special project in the New Year theme for the festival \"Travel to Christmas\" .",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 2112,
+        "left": 642,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Stories of celebrating the new year at different times</span><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"> and <br>a <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">story about the unique atmosphere of the festival.</span></span></span></span></p>",
+        "text": "Stories of celebrating the new year at different times and a story about the unique atmosphere of the festival.",
+        "align": "left"
+      }
+    ]
+  },
+  "nextyear": {
+    "title": "NEXTYEAR",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 77,
+        "left": 176,
+        "html": "<div><p data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New'; font-weight: bold;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">DIGITAL CASE</span></p><p data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New'; font-weight: bold;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">WHAT WILL BE YOUR NEXT YEAR</span></span></p>",
+        "text": "DIGITAL CASE WHAT WILL BE YOUR NEXT YEAR",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<div><p data-style-phone_portrait=\"text-align: center; line-height: 19px; font-size: 15px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New';\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">for \"Creative People\" agency's clients</span></span></p><p data-style-phone_portrait=\"text-align: center; line-height: 26px; font-size: 21px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p>",
+        "text": "for \"Creative People\" agency's clients &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 329,
+        "left": 5,
+        "src": "/images/img_65a752f6cedf51f815457518936035c3.png",
+        "width": 1012,
+        "height": 576
+      },
+      {
+        "type": "text",
+        "top": 1020,
+        "left": 147,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Congratulate the agency's clients on the New Year using digital channels.</span></span></p><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p>",
+        "text": "Congratulate the agency's clients on the New Year using digital channels. &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1178,
+        "left": 149,
+        "html": "<div><p data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">Idea for congratulation \u2013 <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">\u201cWhat will be your next year\u201d.</span> It's a <span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">funny test, built on the specifics of communication between the client and the agency. The test result is a dog that will become the symbol of the next year.</span></p>",
+        "text": "Idea for congratulation \u2013 \u201cWhat will be your next year\u201d. It's a funny test, built on the specifics of communication between the client and the agency. The test result is a dog that will become the symbol of the next year.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1396,
+        "left": 147,
+        "html": "<div><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">- Creating the concept for the landing page</span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">- Copywriting</span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></span></span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px; padding-bottom: 0px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"empty\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</span></span></p><p data-style-phone_portrait=\"text-align: left; line-height: 23px; font-size: 18px; padding-bottom: 0px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked=\"true\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio=\"1.25\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\">&nbsp;</p>",
+        "text": "- Creating the concept for the landing page - Copywriting &nbsp; &nbsp; &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1622,
+        "left": -2,
+        "src": "/images/img_856ef6f240d76e698b96522188c8f270.png",
+        "width": 1026,
+        "height": 485
+      },
+      {
+        "type": "image",
+        "top": 2135,
+        "left": -1,
+        "src": "/images/img_1fc5061a53b5bf225fff3a278c7ece71.png",
+        "width": 1025,
+        "height": 572
+      },
+      {
+        "type": "image",
+        "top": 2737,
+        "left": -1,
+        "src": "/images/img_a248d29fe62ef55af21fdde438e8c01e.png",
+        "width": 1025,
+        "height": 572
+      },
+      {
+        "type": "image",
+        "top": 3341,
+        "left": -1,
+        "src": "/images/img_624f8a336189bb6f0ce05d910f022914.png",
+        "width": 1025,
+        "height": 572
+      }
+    ]
+  },
+  "pipndrop": {
+    "title": "PIPNDROP",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>SPECIAL PROJECT</span></p><p><span>FOR PIPNDROP</span></p>",
+        "text": "SPECIAL PROJECT FOR PIPNDROP",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>wine-bar in Moscow</span></p>",
+        "text": "wine-bar in Moscow",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 315,
+        "left": -4,
+        "youtube_id": "IHobBjLQInU"
+      },
+      {
+        "type": "text",
+        "top": 936,
+        "left": 163,
+        "html": "<p>Imagine that you opened a wine bar...in 2020! </p><p>I understand, not the best dream fulfillment. But that's exactly what happened with Pipndrop.</p><p>And to help the bar survive the quarantine restrictions, we came up with the <span>Pipndrop Cowine-test</span>. The most pleasant alternative to regular tests \u2014 without cotton swabs and a painful aftertaste.</p>",
+        "text": "Imagine that you opened a wine bar...in 2020! I understand, not the best dream fulfillment. But that's exactly what happened with Pipndrop. And to help the bar survive the quarantine restrictions, we came up with the Pipndrop Cowine-test . The most pleasant alternative to regular tests \u2014 without cotton swabs and a painful aftertaste.",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1161,
+        "left": 220,
+        "src": "/images/img_9e2637ba306eeca8ebb2838bd772312f.jpg",
+        "width": 574,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 2015,
+        "left": 163,
+        "html": "<p>The set includes 4 testers with outstanding aromas, convenient packaging and clear instructions: taste the tester, and if you can smell or feel the taste of it \u2014 great, you are healthy!</p>",
+        "text": "The set includes 4 testers with outstanding aromas, convenient packaging and clear instructions: taste the tester, and if you can smell or feel the taste of it \u2014 great, you are healthy!",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 2134,
+        "left": 33,
+        "src": "/images/img_204ab7520de41019c2051b19956dcf01.jpg",
+        "width": 948,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 2993,
+        "left": 161,
+        "html": "<p>5 days before the New Year different lifestyle media such as RBC Style wrote about Cowine-test and 4.5 million people learned about it as a unique New Year's gift!</p>",
+        "text": "5 days before the New Year different lifestyle media such as RBC Style wrote about Cowine-test and 4.5 million people learned about it as a unique New Year's gift!",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 3114,
+        "left": 34,
+        "src": "/images/img_8ac6579c1ee3b90fbc323282325673c0.jpg",
+        "width": 951,
+        "height": 576
+      }
+    ]
+  },
+  "rostelecom": {
+    "title": "ROSTELECOM",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>MULTIPLE CASES</span></p><p><span>FOR ROSTELECOM</span></p>",
+        "text": "MULTIPLE CASES FOR ROSTELECOM",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>largest telecom provider </span></p><p><span>in Russia</span></p>",
+        "text": "largest telecom provider in Russia",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 358,
+        "left": 162,
+        "html": "<p><span>\u200d</span></p>",
+        "text": "\u200d",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 359,
+        "left": 149,
+        "html": "<p><span>ATTENTION</span></p>",
+        "text": "ATTENTION",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 415,
+        "left": 149,
+        "html": "<p>This page was created to demonstrate how I can do B2B, HR and IT projects for one brand. And it also shows that sometimes when you try to do your best, it doesn\u2019t work. But this type of experience added +1000 points to my negotiating skills.</p>",
+        "text": "This page was created to demonstrate how I can do B2B, HR and IT projects for one brand. And it also shows that sometimes when you try to do your best, it doesn\u2019t work. But this type of experience added +1000 points to my negotiating skills.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 610,
+        "left": 149,
+        "html": "<p><span>B2B</span></p>",
+        "text": "B2B",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 670,
+        "left": 149,
+        "html": "<p>At first I thought that it was impossible to tell about three technologies for smaller business in 30 seconds. </p><p>But who cares? </p><p>So I did it.</p>",
+        "text": "At first I thought that it was impossible to tell about three technologies for smaller business in 30 seconds. But who cares? So I did it.",
+        "align": "left"
+      },
+      {
+        "type": "video",
+        "top": 808,
+        "left": 118,
+        "youtube_id": "bX1TzAcEnyk"
+      },
+      {
+        "type": "text",
+        "top": 1351,
+        "left": 149,
+        "html": "<p>But I want you to know which manifesto was in the original idea:</p><p>\u200d</p><p>\u041e\u043d\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438, \u0432\u0435\u0441\u0442\u0438 \u0434\u0435\u043b\u0430 \u0431\u0435\u0437 \u043e\u0444\u0438\u0441\u0430 \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.</p><p>\u041f\u0440\u0435\u0434\u0443\u0433\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u0436\u0435\u043b\u0430\u043d\u0438\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043a\u043b\u0438\u0435\u043d\u0442\u0430 \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.</p><p>\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0442\u044b\u0441\u044f\u0447\u0438 \u0437\u0432\u043e\u043d\u043a\u043e\u0432 \u0440\u0430\u0437\u043e\u043c \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.</p><p>\u041d\u043e \u043f\u043e\u043a\u0430 \u043e\u0434\u043d\u0438 \u0433\u043e\u0432\u043e\u0440\u044f\u0442, \u0434\u0440\u0443\u0433\u0438\u0435 \u0434\u0435\u043b\u0430\u044e\u0442 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0435 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c\u0438.</p><p>\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439.</p>",
+        "text": "But I want you to know which manifesto was in the original idea: \u200d \u041e\u043d\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438, \u0432\u0435\u0441\u0442\u0438 \u0434\u0435\u043b\u0430 \u0431\u0435\u0437 \u043e\u0444\u0438\u0441\u0430 \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u041f\u0440\u0435\u0434\u0443\u0433\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u0436\u0435\u043b\u0430\u043d\u0438\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043a\u043b\u0438\u0435\u043d\u0442\u0430 \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0442\u044b\u0441\u044f\u0447\u0438 \u0437\u0432\u043e\u043d\u043a\u043e\u0432 \u0440\u0430\u0437\u043e\u043c \u2014 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u041d\u043e \u043f\u043e\u043a\u0430 \u043e\u0434\u043d\u0438 \u0433\u043e\u0432\u043e\u0440\u044f\u0442, \u0434\u0440\u0443\u0433\u0438\u0435 \u0434\u0435\u043b\u0430\u044e\u0442 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0435 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c\u0438. \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1623,
+        "left": 150,
+        "html": "<p>These key visuals were made for another campaign targeted for big businesses in different industries.</p>",
+        "text": "These key visuals were made for another campaign targeted for big businesses in different industries.",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1720,
+        "left": 122,
+        "src": "/images/img_c90cf402729f81af2dc7a4b5839a5b8e.jpg",
+        "width": 867,
+        "height": 485
+      },
+      {
+        "type": "text",
+        "top": 2279,
+        "left": 161,
+        "html": "<p><span>HR</span></p>",
+        "text": "HR",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 2339,
+        "left": 161,
+        "html": "<p>Rostelecom has transformed into a new progressive brand. And this manifesto was created to inspire all employees for this transformation:</p><p><br></p><p>\u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u0432\u0441\u0451 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0441 \u0432\u044b\u0437\u043e\u0432\u0430.</p><p>\u0410 \u043a\u0430\u0436\u0434\u044b\u0439 \u0432\u044b\u0437\u043e\u0432 \u2013 \u044d\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c.</p><p>\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0430\u0441\u043f\u043e\u0440\u0442 \u043b\u0438\u0446\u043e\u043c</p><p>\u041d\u0430\u0434\u0435\u043b\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u043e\u043c \u043d\u0430\u0448\u0438 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b</p><p>\u041f\u0435\u0440\u0435\u043d\u0435\u0441\u0442\u0438 \u0446\u0435\u043b\u043e\u0435 \u0441\u0435\u043b\u043e \u043d\u0430 \u0432\u0435\u043a \u0432\u043f\u0435\u0440\u0435\u0434</p><p>\u0410 \u0437\u0430\u0442\u0435\u043c \u0438 \u0432\u0441\u044e \u0441\u0442\u0440\u0430\u043d\u0443!</p><p>\u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u2013 120 000 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432. </p><p>\u0418 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0434 \u043a\u0430\u0436\u0434\u044b\u043c.</p><p>\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0434\u043d\u0430\u0436\u0434\u044b \u043d\u0430\u0439\u0442\u0438 \u0441\u0435\u0431\u044f \u0437\u0430\u043d\u043e\u0432\u043e</p><p>\u0418 \u043f\u043e\u043d\u044f\u0442\u044c, \u0447\u0442\u043e \u043d\u0435 \u043c\u043e\u0436\u0435\u0448\u044c \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f.</p><p>\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 \u0438\u0437 \u0448\u043a\u043e\u043b\u044b</p><p>\u0418\u043b\u0438 \u0432\u043e\u0432\u0441\u0435 \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0442\u044c \u0445\u043e\u0434\u0438\u0442\u044c \u0432 \u043e\u0444\u0438\u0441.</p><p>\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430 3 \u0433\u043e\u0434\u0430 \u043f\u043e\u043c\u0435\u043d\u044f\u0442\u044c 6 \u0432\u0438\u0437\u0438\u0442\u043e\u043a</p><p>\u0418 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0441\u0430\u043c\u043e\u0439 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u043e\u0439 \u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435 \u0432 \u0441\u0442\u0440\u0430\u043d\u0435</p><p>\u041d\u043e \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u2013 \u044d\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0431\u044b\u0442\u044c \u043f\u0435\u0440\u0432\u044b\u043c, \u0447\u0435\u043c \u0431\u044b \u0432\u044b \u043d\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c.</p><p>\u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0431\u0443\u0434\u0443\u0449\u0435\u0435, \u0430 \u043d\u0435 \u0436\u0434\u0430\u0442\u044c, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d\u043e \u043d\u0430\u0441\u0442\u0443\u043f\u0438\u0442.</p><p>\u041f\u043e\u0434\u0443\u043c\u0430\u0439\u0442\u0435, \u043a\u0430\u043a\u043e\u0439 \u0432\u044b\u0437\u043e\u0432 \u2013 \u0443 \u0432\u0430\u0441?</p><p>\u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u043e\u043d \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u043e\u0432\u043e\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e.</p><p>\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439.</p>",
+        "text": "Rostelecom has transformed into a new progressive brand. And this manifesto was created to inspire all employees for this transformation: \u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u0432\u0441\u0451 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0441 \u0432\u044b\u0437\u043e\u0432\u0430. \u0410 \u043a\u0430\u0436\u0434\u044b\u0439 \u0432\u044b\u0437\u043e\u0432 \u2013 \u044d\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0430\u0441\u043f\u043e\u0440\u0442 \u043b\u0438\u0446\u043e\u043c \u041d\u0430\u0434\u0435\u043b\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u043e\u043c \u043d\u0430\u0448\u0438 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u041f\u0435\u0440\u0435\u043d\u0435\u0441\u0442\u0438 \u0446\u0435\u043b\u043e\u0435 \u0441\u0435\u043b\u043e \u043d\u0430 \u0432\u0435\u043a \u0432\u043f\u0435\u0440\u0435\u0434 \u0410 \u0437\u0430\u0442\u0435\u043c \u0438 \u0432\u0441\u044e \u0441\u0442\u0440\u0430\u043d\u0443! \u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u2013 120 000 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432. \u0418 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0434 \u043a\u0430\u0436\u0434\u044b\u043c. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0434\u043d\u0430\u0436\u0434\u044b \u043d\u0430\u0439\u0442\u0438 \u0441\u0435\u0431\u044f \u0437\u0430\u043d\u043e\u0432\u043e \u0418 \u043f\u043e\u043d\u044f\u0442\u044c, \u0447\u0442\u043e \u043d\u0435 \u043c\u043e\u0436\u0435\u0448\u044c \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 \u0438\u0437 \u0448\u043a\u043e\u043b\u044b \u0418\u043b\u0438 \u0432\u043e\u0432\u0441\u0435 \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0442\u044c \u0445\u043e\u0434\u0438\u0442\u044c \u0432 \u043e\u0444\u0438\u0441. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430 3 \u0433\u043e\u0434\u0430 \u043f\u043e\u043c\u0435\u043d\u044f\u0442\u044c 6 \u0432\u0438\u0437\u0438\u0442\u043e\u043a \u0418 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0441\u0430\u043c\u043e\u0439 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u043e\u0439 \u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435 \u0432 \u0441\u0442\u0440\u0430\u043d\u0435 \u041d\u043e \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u2013 \u044d\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0431\u044b\u0442\u044c \u043f\u0435\u0440\u0432\u044b\u043c, \u0447\u0435\u043c \u0431\u044b \u0432\u044b \u043d\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c. \u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0431\u0443\u0434\u0443\u0449\u0435\u0435, \u0430 \u043d\u0435 \u0436\u0434\u0430\u0442\u044c, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d\u043e \u043d\u0430\u0441\u0442\u0443\u043f\u0438\u0442. \u041f\u043e\u0434\u0443\u043c\u0430\u0439\u0442\u0435, \u043a\u0430\u043a\u043e\u0439 \u0432\u044b\u0437\u043e\u0432 \u2013 \u0443 \u0432\u0430\u0441? \u0412 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0435 \u043e\u043d \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u043e\u0432\u043e\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e. \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439.",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 3051,
+        "left": 121,
+        "src": "/images/img_a723bac3e63133535086c18b15610920.png",
+        "width": 868,
+        "height": 488
+      },
+      {
+        "type": "text",
+        "top": 3582,
+        "left": 161,
+        "html": "<p><span>IT</span></p>",
+        "text": "IT",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 3634,
+        "left": 161,
+        "html": "<p>At the beginning of the quarantine in the spring of 2020, Rostelecom organized a hackathon to find new technological solutions that would make our new reality better. This manifesto was created to attract more participants:</p><p><br></p><p>\u041c\u044b \u0437\u0430\u043a\u0440\u044b\u043b\u0438\u0441\u044c \u0432 \u0441\u0432\u043e\u0438\u0445 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\u0445, \u043d\u043e \u043c\u0438\u0440 \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0434\u043b\u044f \u043d\u0430\u0441. </p><p>\u041f\u043e\u043b\u043d\u044b\u043c \u043d\u043e\u0432\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c.</p><p>\u041c\u044b \u043c\u043e\u0436\u0435\u043c \u0432\u0438\u0434\u0435\u0442\u044c\u0441\u044f \u0441 \u0431\u043b\u0438\u0437\u043a\u0438\u043c\u0438</p><p>\u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u043f\u0435\u043a\u0442\u0430\u043a\u043b\u0438</p><p>\u0412\u0435\u0441\u0442\u0438 \u0431\u0438\u0437\u043d\u0435\u0441</p><p>\u0418 \u0443\u0447\u0438\u0442\u044c\u0441\u044f, \u043d\u0435 \u0432\u044b\u0445\u043e\u0434\u044f \u0438\u0437 \u0434\u043e\u043c\u0430.</p><p>\u0414\u0430, \u043c\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u043c, \u043a\u0430\u043a\u0438\u043c \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0438\u0440 \u0437\u0430\u0432\u0442\u0440\u0430. </p><p>\u041d\u043e \u0443\u0432\u0435\u0440\u0435\u043d\u044b, \u0447\u0442\u043e \u0432\u0441\u0435\u0433\u0434\u0430 \u043d\u0430\u0439\u0434\u0435\u0442\u0441\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u0433\u043e\u0442\u043e\u0432\u044b\u0439 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0435\u0433\u043e \u043b\u0443\u0447\u0448\u0435.</p><p>\u0418 \u044d\u0442\u0438\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043c\u043e\u0436\u0435\u0448\u044c \u0441\u0442\u0430\u0442\u044c \u0442\u044b.</p><p>\u0423\u0447\u0430\u0441\u0442\u0432\u0443\u0439 \u0432 VirusHack \u043e\u0442 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0430, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043f\u0440\u043e\u0435\u043a\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0442\u043a\u0440\u043e\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043b\u044e\u0434\u0435\u0439.</p><p>\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439.</p><p>\u200d</p>",
+        "text": "At the beginning of the quarantine in the spring of 2020, Rostelecom organized a hackathon to find new technological solutions that would make our new reality better. This manifesto was created to attract more participants: \u041c\u044b \u0437\u0430\u043a\u0440\u044b\u043b\u0438\u0441\u044c \u0432 \u0441\u0432\u043e\u0438\u0445 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\u0445, \u043d\u043e \u043c\u0438\u0440 \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0434\u043b\u044f \u043d\u0430\u0441. \u041f\u043e\u043b\u043d\u044b\u043c \u043d\u043e\u0432\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c. \u041c\u044b \u043c\u043e\u0436\u0435\u043c \u0432\u0438\u0434\u0435\u0442\u044c\u0441\u044f \u0441 \u0431\u043b\u0438\u0437\u043a\u0438\u043c\u0438 \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u043f\u0435\u043a\u0442\u0430\u043a\u043b\u0438 \u0412\u0435\u0441\u0442\u0438 \u0431\u0438\u0437\u043d\u0435\u0441 \u0418 \u0443\u0447\u0438\u0442\u044c\u0441\u044f, \u043d\u0435 \u0432\u044b\u0445\u043e\u0434\u044f \u0438\u0437 \u0434\u043e\u043c\u0430. \u0414\u0430, \u043c\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u043c, \u043a\u0430\u043a\u0438\u043c \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0438\u0440 \u0437\u0430\u0432\u0442\u0440\u0430. \u041d\u043e \u0443\u0432\u0435\u0440\u0435\u043d\u044b, \u0447\u0442\u043e \u0432\u0441\u0435\u0433\u0434\u0430 \u043d\u0430\u0439\u0434\u0435\u0442\u0441\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u0433\u043e\u0442\u043e\u0432\u044b\u0439 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0435\u0433\u043e \u043b\u0443\u0447\u0448\u0435. \u0418 \u044d\u0442\u0438\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043c\u043e\u0436\u0435\u0448\u044c \u0441\u0442\u0430\u0442\u044c \u0442\u044b. \u0423\u0447\u0430\u0441\u0442\u0432\u0443\u0439 \u0432 VirusHack \u043e\u0442 \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0430, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043f\u0440\u043e\u0435\u043a\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0442\u043a\u0440\u043e\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043b\u044e\u0434\u0435\u0439. \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439. \u200d",
+        "align": "left"
+      }
+    ]
+  },
+  "shairmusic": {
+    "title": "SHAIRMUSIC",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR APPLE MUSIC</span></p>",
+        "text": "FESTIVAL CASE FOR APPLE MUSIC",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_8ef63c0c7565ba6d12355df4715c1895.jpg",
+        "width": 1445,
+        "height": 813
+      },
+      {
+        "type": "text",
+        "top": 1254,
+        "left": 100,
+        "html": "<p><span>COMMENTS</span></p>",
+        "text": "COMMENTS",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1551,
+        "left": 0,
+        "html": "<p><span>Kevin Brady, </span></p><p><span>creative director droga 5 NY</span></p><p><span>Not sure if it's possible but yeah Short-ish.</span></p>",
+        "text": "Kevin Brady, creative director droga 5 NY Not sure if it's possible but yeah Short-ish.",
+        "align": "center",
+        "photo": "/images/kevin_brady.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1551,
+        "left": 350,
+        "html": "<p><span>Anton Shaporenko, <br>creative director Geometry global</span></p><p><span>The board and name of the idea are great!</span></p>",
+        "text": "Anton Shaporenko, creative director Geometry global The board and name of the idea are great!",
+        "align": "center",
+        "photo": "/images/anton_shaporenko.jpg"
+      },
+      {
+        "type": "text",
+        "top": 1551,
+        "left": 710,
+        "html": "<p><span>Augusto Moreno Dos Anjos, creative director ADV digital</span></p><p><span>Shotlist. Cool. Not much of privacy though. Maybe the user being spyied can allow or not the music to be captured.</span></p>",
+        "text": "Augusto Moreno Dos Anjos, creative director ADV digital Shotlist. Cool. Not much of privacy though. Maybe the user being spyied can allow or not the music to be captured.",
+        "align": "center",
+        "photo": "/images/augusto_moreno.jpg"
+      }
+    ]
+  },
+  "skillbox": {
+    "title": "SKILLBOX",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>IMAGE MANIFEST</span></p><p><span>FOR SKILLBOX</span></p>",
+        "text": "IMAGE MANIFEST FOR SKILLBOX",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>educational platform</span></p><p><span>&nbsp;</span></p>",
+        "text": "educational platform &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 287,
+        "left": 0,
+        "youtube_id": "a9L26uzbh4c"
+      },
+      {
+        "type": "text",
+        "top": 1146,
+        "left": 162,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1202,
+        "left": 162,
+        "html": "<p><span>Create a platform manifest that motivates people of all ages to start studying.</span></p><p><span>&nbsp;</span></p>",
+        "text": "Create a platform manifest that motivates people of all ages to start studying. &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1291,
+        "left": 163,
+        "html": "<p><span>ENG VERSION:</span></p>",
+        "text": "ENG VERSION:",
+        "align": "left"
+      }
+    ]
+  },
+  "startapp": {
+    "title": "STARTAPP",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>BRAND BUILDING</span></p><p><span>FOR TIKTOK FOR BUSINESS</span></p>",
+        "text": "BRAND BUILDING FOR TIKTOK FOR BUSINESS",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>Central Asia</span></p><p><span>&nbsp;</span></p>",
+        "text": "Central Asia &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 243,
+        "left": 276,
+        "src": "/images/img_06b6e864e2141eed468eda2c23d3bcc9.png",
+        "width": 475,
+        "height": 360
+      },
+      {
+        "type": "text",
+        "top": 664,
+        "left": 149,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 720,
+        "left": 148,
+        "html": "<p>Build the brand image in Central Asia \u2014 TikTok is the main platform for promoting startups.</p>",
+        "text": "Build the brand image in Central Asia \u2014 TikTok is the main platform for promoting startups.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 800,
+        "left": 149,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 860,
+        "left": 149,
+        "html": "<p>The image platform \u00abTikTok is your start app\u00bb was created. <br>The platform was used to launch an educational course for startups in partnership with Astana Hub, to participate in Digital Bridge 2022 and to present TikTok to the President of Kazakhstan.</p><p><span>&nbsp;</span></p>",
+        "text": "The image platform \u00abTikTok is your start app\u00bb was created. The platform was used to launch an educational course for startups in partnership with Astana Hub, to participate in Digital Bridge 2022 and to present TikTok to the President of Kazakhstan. &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 988,
+        "left": 149,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1048,
+        "left": 150,
+        "html": "<p>Leading the in-house creative team, creating the concept of the image platform, supervising production of all comms materials, collaborating with cross-functional depart</p>",
+        "text": "Leading the in-house creative team, creating the concept of the image platform, supervising production of all comms materials, collaborating with cross-functional depart",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1173,
+        "left": 149,
+        "html": "<p><span>RESULTS:</span></p>",
+        "text": "RESULTS:",
+        "align": "left"
+      },
+      {
+        "type": "video",
+        "top": 1241,
+        "left": 0,
+        "youtube_id": "nxAKbVCvIfw"
+      },
+      {
+        "type": "text",
+        "top": 1849,
+        "left": 149,
+        "html": "<p><span>VIDEO FOR<br>PRESIDENT:</span></p>",
+        "text": "VIDEO FOR PRESIDENT:",
+        "align": "left"
+      },
+      {
+        "type": "video",
+        "top": 1849,
+        "left": 512,
+        "youtube_id": "16HqoeAEwWs"
+      }
+    ]
+  },
+  "thosebugs": {
+    "title": "THOSEBUGS",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR DISNEY</span></p>",
+        "text": "FESTIVAL CASE FOR DISNEY",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2019</span></p>",
+        "text": "Young Glory - 2019",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 291,
+        "left": -146,
+        "src": "/images/img_2d940ddbd1d0ceaf06c5d7bbb5f13c90.jpg",
+        "width": 1299,
+        "height": 866
+      }
+    ]
+  },
+  "updating": {
+    "title": "UPDATING",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>SPECIAL PROJECT</span></p><p><span>FOR TIKTOK FOR BUSINESS</span></p>",
+        "text": "SPECIAL PROJECT FOR TIKTOK FOR BUSINESS",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>Global</span></p><p><span>&nbsp;</span></p>",
+        "text": "Global &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 241,
+        "left": 176,
+        "youtube_id": "eosNwOkuX7s"
+      },
+      {
+        "type": "text",
+        "top": 664,
+        "left": 149,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 720,
+        "left": 148,
+        "html": "<p>Create a concept for a global educational event for the Dating vertical that reflects that TikTok will help millions of people fall in love with your app</p>",
+        "text": "Create a concept for a global educational event for the Dating vertical that reflects that TikTok will help millions of people fall in love with your app",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 815,
+        "left": 149,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 875,
+        "left": 149,
+        "html": "<p>UpDating. It is a concept that portrays the path of a business to the hearts of the TikTok audience as a love reality show. In the center is the love story of the mascot of the event - TikToktopus. The story was presented in the format of an animated series and made the speeches of the speakers even more engaging and exciting.</p><p><span>&nbsp;</span></p>",
+        "text": "UpDating. It is a concept that portrays the path of a business to the hearts of the TikTok audience as a love reality show. In the center is the love story of the mascot of the event - TikToktopus. The story was presented in the format of an animated series and made the speeches of the speakers even more engaging and exciting. &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1020,
+        "left": 149,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1080,
+        "left": 150,
+        "html": "<p>Leading the in-house creative team, creating the concept of the event &amp; TikToktopus's lovestory cartoon, supervising production of all comms materials, collaborating with cross-functional departments </p>",
+        "text": "Leading the in-house creative team, creating the concept of the event &amp; TikToktopus's lovestory cartoon, supervising production of all comms materials, collaborating with cross-functional departments",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1181,
+        "left": 149,
+        "html": "<p><span>RESULTS:</span></p>",
+        "text": "RESULTS:",
+        "align": "left"
+      },
+      {
+        "type": "video",
+        "top": 1249,
+        "left": 0,
+        "youtube_id": "511eStYCIQA"
+      }
+    ]
+  },
+  "virtus.pro": {
+    "title": "VIRTUS.PRO",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>SPECIAL PROJECT</span></p><p><span>FOR VIRTUS.PRO</span></p>",
+        "text": "SPECIAL PROJECT FOR VIRTUS.PRO",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>russian e-sports project</span></p><p><span>&nbsp;</span></p>",
+        "text": "russian e-sports project &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 370,
+        "left": 303,
+        "src": "/images/img_eda5ba978fc7174d58381ee05949646b.png",
+        "width": 389,
+        "height": 389
+      },
+      {
+        "type": "text",
+        "top": 821,
+        "left": 149,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 877,
+        "left": 149,
+        "html": "<p><span>In 2018 Virtus.pro sets a historic achievement: 4 wins in major tournaments for the calendar year. We needed to create a special project about it with a support of the team sponsor Parimatch. The project should consist of 7 materials about the matches.</span></p>",
+        "text": "In 2018 Virtus.pro sets a historic achievement: 4 wins in major tournaments for the calendar year. We needed to create a special project about it with a support of the team sponsor Parimatch. The project should consist of 7 materials about the matches.",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1016,
+        "left": 149,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1079,
+        "left": 149,
+        "html": "<p><span>The main page of the special project is framed as a map for Dota 2. Runes containing interesting facts about the team are scattered across the map. Information about the sponsor is highlighted on the map as in-game shop.</span></p><p><span><br>The map itself is divided into 7 sections as in the game. Each section is linked to an article about one of the matches. Within a week after the launch, sections were unlocked one by one daily. </span></p><p><span><br>When an article is being read, the related map element (towers, Roshan or Throne) is destroyed. Once one's read all 7 articles, the winner\u2019s cup appears on the map. It contains the information about Virtus.pro's upcoming games and a gift from the team\u2019s sponsor. </span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>",
+        "text": "The main page of the special project is framed as a map for Dota 2. Runes containing interesting facts about the team are scattered across the map. Information about the sponsor is highlighted on the map as in-game shop. The map itself is divided into 7 sections as in the game. Each section is linked to an article about one of the matches. Within a week after the launch, sections were unlocked one by one daily. When an article is being read, the related map element (towers, Roshan or Throne) is destroyed. Once one's read all 7 articles, the winner\u2019s cup appears on the map. It contains the information about Virtus.pro's upcoming games and a gift from the team\u2019s sponsor. &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1448,
+        "left": 149,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1508,
+        "left": 150,
+        "html": "<p><span>Creating the concept of special project, e.g.</span></p><p><span>- idea</span></p><p><span>- mechanics</span></p><p><span>- sponsor integration</span></p><p><span>&nbsp;</span></p>",
+        "text": "Creating the concept of special project, e.g. - idea - mechanics - sponsor integration &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1653,
+        "left": 149,
+        "html": "<p><span>SCREENSHOTS:</span></p>",
+        "text": "SCREENSHOTS:",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 1710,
+        "left": 0,
+        "src": "/images/img_1950c88efd44a35b4b804d470b005fe2.png",
+        "width": 502,
+        "height": 287
+      },
+      {
+        "type": "image",
+        "top": 1710,
+        "left": 522,
+        "src": "/images/img_20a63df3fc0bf4f04f3572a5d9f6228f.png",
+        "width": 502,
+        "height": 287
+      },
+      {
+        "type": "image",
+        "top": 2030,
+        "left": 0,
+        "src": "/images/img_4d66a558dbe5d56e6b6be96f7164ff2f.png",
+        "width": 1024,
+        "height": 586
+      },
+      {
+        "type": "image",
+        "top": 2650,
+        "left": 0,
+        "src": "/images/img_dee583be0692faed25f283f40a7533b0.png",
+        "width": 502,
+        "height": 287
+      },
+      {
+        "type": "image",
+        "top": 2650,
+        "left": 522,
+        "src": "/images/img_27ea3c98968358acf956fbbba20780c4.png",
+        "width": 502,
+        "height": 287
+      }
+    ]
+  },
+  "vogue": {
+    "title": "VOGUE",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<p><span>FESTIVAL CASE </span></p><p><span>FOR VOGUE</span></p>",
+        "text": "FESTIVAL CASE FOR VOGUE",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<p><span>Young Glory - 2019</span></p>",
+        "text": "Young Glory - 2019",
+        "align": "center"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_2af4685926b6bce0d6ead06fcb7f3fea.jpg",
+        "width": 1445,
+        "height": 813
+      }
+    ]
+  },
+  "winkufc": {
+    "title": "WINKUFC",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 86,
+        "left": 162,
+        "html": "<p><span>TV-AD CASE</span></p><p><span>FOR WINK UFC</span></p>",
+        "text": "TV-AD CASE FOR WINK UFC",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "top": 193,
+        "left": 267,
+        "html": "<p><span>videoservice with an exclusive access </span></p><p><span>to UFC-content</span></p><p><span>&nbsp;</span></p>",
+        "text": "videoservice with an exclusive access to UFC-content &nbsp;",
+        "align": "center"
+      },
+      {
+        "type": "video",
+        "top": 287,
+        "left": 0,
+        "youtube_id": "yv_lxzJy6PE"
+      },
+      {
+        "type": "text",
+        "top": 1146,
+        "left": 162,
+        "html": "<p><span>TASK:</span></p>",
+        "text": "TASK:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1202,
+        "left": 162,
+        "html": "<p>UFC was not represented well in Russia. Viewers had access to a very limited amount of fights that were shown mainly on TV and always past midnight due to time zones difference. <br></p><p>Wink was the first online video service in Russia to get the exclusive rights for distributing UFC content. We needed to announce it on TV during the fight between Khabib Nurmagomedov and Dustin Porrier. <br><br>The main condition was to use only UFC content.</p><p><span>&nbsp;</span></p>",
+        "text": "UFC was not represented well in Russia. Viewers had access to a very limited amount of fights that were shown mainly on TV and always past midnight due to time zones difference. Wink was the first online video service in Russia to get the exclusive rights for distributing UFC content. We needed to announce it on TV during the fight between Khabib Nurmagomedov and Dustin Porrier. The main condition was to use only UFC content. &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1442,
+        "left": 163,
+        "html": "<p><span>SOLUTION:</span></p>",
+        "text": "SOLUTION:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1502,
+        "left": 163,
+        "html": "<p>There are things that you can enjoy endlessly \u2014 like pieces of art. <br>So, for standing out in the ad unit, where all the videos consist of fragments of UFC fights, we focused on the sound and created an atmosphere of classical art venue.</p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>",
+        "text": "There are things that you can enjoy endlessly \u2014 like pieces of art. So, for standing out in the ad unit, where all the videos consist of fragments of UFC fights, we focused on the sound and created an atmosphere of classical art venue. &nbsp; &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1632,
+        "left": 163,
+        "html": "<p><span>MY ROLE:</span></p>",
+        "text": "MY ROLE:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1692,
+        "left": 164,
+        "html": "<p>Creating the concept.</p><p>- idea</p><p>- concept of audio style</p><p>- video script writing</p><p>- pitching for client</p><p>- production supervising</p>",
+        "text": "Creating the concept. - idea - concept of audio style - video script writing - pitching for client - production supervising",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1881,
+        "left": 162,
+        "html": "<p><span>RESULTS:</span></p>",
+        "text": "RESULTS:",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 1937,
+        "left": 162,
+        "html": "<p>The video was shown twice in commercial breaks during the night fight. The number of downloads of the app grew by so much that the Wink app entered the TOP of free apps in Russia and became the leader in its category overnight.</p><p><span>&nbsp;</span></p>",
+        "text": "The video was shown twice in commercial breaks during the night fight. The number of downloads of the app grew by so much that the Wink app entered the TOP of free apps in Russia and became the leader in its category overnight. &nbsp;",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 2084,
+        "left": 162,
+        "html": "<p><span>SCREENSHOTS:</span></p>",
+        "text": "SCREENSHOTS:",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 2136,
+        "left": 162,
+        "src": "/images/img_cf1a57ecd5d1a67e0c2c096e5bd9f0e8.jpg",
+        "width": 297,
+        "height": 528
+      },
+      {
+        "type": "image",
+        "top": 2136,
+        "left": 507,
+        "src": "/images/img_830c31ba311ce113888b24a1c3c859ab.png",
+        "width": 244,
+        "height": 528
+      }
+    ]
+  },
+  "youngglory": {
+    "title": "YOUNGGLORY",
+    "blocks": [
+      {
+        "type": "text",
+        "top": 96,
+        "left": 172,
+        "html": "<div><p data-size-leading-linked=\"true\" data-size-leading-ratio=\"1.25\" data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-weight: bold; font-family: 'Courier New';\" data-class-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\">FESTIVAL CASE </span></p><p data-size-leading-linked=\"true\" data-size-leading-ratio=\"1.25\" data-style-phone_portrait=\"line-height: 38px; font-size: 30px; text-align: center;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-weight: bold; font-family: 'Courier New';\" data-class-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\">FOR YOUNG GLORY</span></p>",
+        "text": "FESTIVAL CASE FOR YOUNG GLORY",
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "top": 228,
+        "left": 267,
+        "html": "<div><p data-size-leading-linked=\"true\" data-size-leading-ratio=\"1.25\" data-style-phone_portrait=\"text-align: center; line-height: 19px; font-size: 15px;\" data-class-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"true\" data-size-leading-ratio-phone_portrait=\"1.25\" data-anchor-link-pos-phone_portrait=\"empty\"><span data-style-phone_portrait=\"font-family: 'Courier New';\" data-class-phone_portrait=\"empty\" data-anchor-link-pos-phone_portrait=\"empty\" data-size-leading-ratio-phone_portrait=\"empty\" data-size-leading-linked-phone_portrait=\"empty\">september 2019</span></p>",
+        "text": "september 2019",
+        "align": "left"
+      },
+      {
+        "type": "image",
+        "top": 320,
+        "left": -216,
+        "src": "/images/img_1bf2cd12f4bbfc96c4c8365dafb7d8b6.jpg",
+        "width": 1445,
+        "height": 813
+      },
+      {
+        "type": "video",
+        "top": 1183,
+        "left": -216,
+        "youtube_id": "vPxJdLcRzfA"
+      }
+    ]
+  }
+}

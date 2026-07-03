@@ -1,0 +1,61 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --font-sans: var(--font-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: Georgia, serif;
+}
+
+:root {
+  --background-yellow: #ffe11e;
+  --text-dark: #282828;
+  --text-muted: #B8B8B8;
+}
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: var(--text-dark);
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Custom link underlines mimicking the original Readymag style */
+.rm-link {
+  position: relative;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  transition: opacity 0.2s ease;
+}
+.rm-link:hover {
+  opacity: 0.7;
+}
+
+/* Grid animation details */
+.card-hover-effect {
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
+}
+.card-hover-effect:hover {
+  transform: translateY(-4px);
+}
+
+/* Comment section styling matching Readymag */
+.comment-content p:first-of-type {
+  font-family: var(--font-sans), sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem; /* 18px */
+  margin-bottom: 0.5rem;
+  color: #282828;
+}
+.comment-content p:last-of-type {
+  font-family: var(--font-sans), sans-serif;
+  font-weight: 400;
+  font-size: 1.125rem; /* 18px */
+  color: #282828;
+}
+
+.comment-content-left p {
+  text-align: left !important;
+}
+.comment-content-center p {
+  text-align: center !important;
+}
