@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import blocksData from '@/lib/case_blocks.json'
+import { activeCases } from '@/lib/works-data'
 
 interface Block {
   type: 'text' | 'image' | 'video'
@@ -65,7 +66,7 @@ export default async function CaseDetailPage({ params }: PageProps) {
       i = j
     } else {
       const isCommentBlock = (b: any) => 
-        b.type === 'text' && 
+         b.type === 'text' && 
         b.photo !== undefined;
         
       if (isCommentBlock(block)) {
@@ -103,6 +104,37 @@ export default async function CaseDetailPage({ params }: PageProps) {
     )
   }
 
+  const currentCase = activeCases.find((c) => c.slug === slug)
+  const isFestival = currentCase?.title === 'Festival concept'
+
+  let festivalTitle = ''
+  let festivalSubtitle = ''
+  const blocksToRender = [...groupedBlocks]
+
+  if (isFestival) {
+    // Find the first text block
+    const firstTextIdx = blocksToRender.findIndex((b) => b.type === 'text')
+    if (firstTextIdx !== -1 && blocksToRender[firstTextIdx].text.toUpperCase().includes('FESTIVAL CASE')) {
+      festivalTitle = blocksToRender[firstTextIdx].text
+      blocksToRender.splice(firstTextIdx, 1)
+
+      // Check if the next block is also a short text block (subtitle)
+      if (firstTextIdx < blocksToRender.length && blocksToRender[firstTextIdx].type === 'text') {
+        const nextBlockText = blocksToRender[firstTextIdx].text.trim()
+        if (
+          nextBlockText.includes('Young Glory') ||
+          nextBlockText.includes('MADS') ||
+          nextBlockText.includes('shortlist') ||
+          nextBlockText.includes('Bronze') ||
+          nextBlockText.length < 35
+        ) {
+          festivalSubtitle = nextBlockText
+          blocksToRender.splice(firstTextIdx, 1)
+        }
+      }
+    }
+  }
+
   return (
     <main className="min-h-screen w-full bg-[#ffe11e] text-[#282828] selection:bg-[#B8B8B8]">
       <div className="max-w-4xl mx-auto px-6 py-12 md:px-16 md:py-20 min-h-screen flex flex-col justify-between">
@@ -123,7 +155,20 @@ export default async function CaseDetailPage({ params }: PageProps) {
 
       {/* Dynamic Content Stream */}
       <article className="flex-grow space-y-6 flex flex-col items-center">
-        {groupedBlocks.map((block, idx) => {
+        {isFestival && festivalTitle && (
+          <div className="w-full text-center mb-12">
+            <h1 className="text-3xl md:text-[40px] font-bold uppercase tracking-wide leading-tight font-mono mb-4 text-[#282828]">
+              {festivalTitle}
+            </h1>
+            {festivalSubtitle && (
+              <p className="text-lg md:text-[21px] font-normal tracking-wide text-[#282828]/70 font-mono mt-2">
+                {festivalSubtitle}
+              </p>
+            )}
+          </div>
+        )}
+
+        {blocksToRender.map((block, idx) => {
           if (block.type === 'text') {
             const isHead = isHeading(block.text)
             
