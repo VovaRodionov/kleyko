@@ -234,6 +234,8 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
 
                 const hasManifesto = manifestoParas.length > 0
 
+                const interStyle = { fontFamily: "'Inter', sans-serif" }
+
                 return (
                   <div 
                     key={idx} 
@@ -244,7 +246,8 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                       {introParas.map((pHtml, pIdx) => (
                         <div
                           key={pIdx}
-                          className="manifesto-inter text-[14px] text-[#282828]/95 leading-relaxed"
+                          style={interStyle}
+                          className="text-[14px] text-[#282828]/95 leading-relaxed"
                           dangerouslySetInnerHTML={{ __html: pHtml }}
                         />
                       ))}
@@ -265,7 +268,8 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                             return (
                               <div
                                 key={pIdx}
-                                className="manifesto-inter text-[14px] text-[#282828]/85 leading-relaxed"
+                                style={interStyle}
+                                className="text-[14px] text-[#282828]/85 leading-relaxed"
                               >
                                 {displayText}
                               </div>
@@ -276,7 +280,8 @@ export default function CaseDetailClient({ slug, caseData }: CaseDetailClientPro
                           <div className="pt-4">
                             <button
                               onClick={() => setTranslated(!translated)}
-                              className="text-[11px] uppercase manifesto-inter font-semibold tracking-wider px-3 py-1 bg-[#282828]/10 hover:bg-[#282828]/20 text-[#282828] rounded cursor-pointer transition-colors"
+                              style={interStyle}
+                              className="text-[11px] uppercase font-semibold tracking-wider px-3 py-1 bg-[#282828]/10 hover:bg-[#282828]/20 text-[#282828] rounded cursor-pointer transition-colors"
                             >
                               {translated ? 'back to english' : 'show original'}
                               {/* translated=false=English shows 'show original'; translated=true=Russian shows 'back to english' */}
