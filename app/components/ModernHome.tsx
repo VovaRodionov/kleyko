@@ -59,22 +59,65 @@ export default function ModernHome() {
       </section>
 
       {/* Teaching & Courses */}
-      <section className="mb-20 grid grid-cols-1 md:grid-cols-2 gap-12">
-        <div>
-          <h3 className="text-xl font-bold uppercase tracking-wider mb-6 text-[#282828]/50">also teaching</h3>
-          <ul className="space-y-4 text-lg md:text-xl font-serif">
-            <li>HSE University <span className="text-xs uppercase px-2 py-1 bg-[#282828]/5 rounded font-sans not-italic text-[#282828]/60 ml-2">Russia</span></li>
-            <li>Skillbox <span className="text-xs uppercase px-2 py-1 bg-[#282828]/5 rounded font-sans not-italic text-[#282828]/60 ml-2">Russia</span></li>
-            <li>TikTok for Business <span className="text-xs uppercase px-2 py-1 bg-[#282828]/5 rounded font-sans not-italic text-[#282828]/60 ml-2">Eastern Europe</span></li>
-          </ul>
-        </div>
-        <div>
-          <h3 className="text-xl font-bold uppercase tracking-wider mb-6 text-[#282828]/50">courses</h3>
-          <ul className="space-y-4 text-lg md:text-xl font-serif">
-            <li>Creativity in digital</li>
-            <li>Creativity in SMM</li>
-            <li>Creativity for business</li>
-          </ul>
+      <section className="mb-20">
+        <h3 className="text-xl font-bold uppercase tracking-wider mb-8 text-[#282828]/50">teaching &amp; courses</h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {/* HSE */}
+          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+              <Image
+                src="/images/img_9b5ea99812d16937ecfe1d7c3dfc9181.png"
+                alt="HSE University"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <div className="flex items-baseline gap-2 flex-wrap">
+                <h4 className="font-bold text-lg leading-tight">HSE</h4>
+                <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Russia</span>
+              </div>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity in digital"</p>
+            </div>
+          </div>
+
+          {/* Skillbox */}
+          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+              <Image
+                src="/images/img_613c0a7e8cdf6012e127c04b3213bb2d.png"
+                alt="Skillbox"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <div className="flex items-baseline gap-2 flex-wrap">
+                <h4 className="font-bold text-lg leading-tight">Skillbox</h4>
+                <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Russia</span>
+              </div>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity in SMM"</p>
+            </div>
+          </div>
+
+          {/* TikTok */}
+          <div className="flex gap-4 items-center p-5 rounded-lg border border-[#282828]/10 hover:border-[#282828]/25 transition-all">
+            <div className="relative w-12 h-12 rounded-full overflow-hidden border border-black/10 flex-shrink-0">
+              <Image
+                src="/images/img_9449e2fdddca37290ee5d2fda9cbe284.png"
+                alt="TikTok for Business"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <div className="flex items-baseline gap-2 flex-wrap">
+                <h4 className="font-bold text-lg leading-tight">TikTok</h4>
+                <span className="text-[10px] uppercase font-sans tracking-wide px-2 py-0.5 bg-[#282828]/5 text-[#282828]/60 rounded">Europe</span>
+              </div>
+              <p className="text-sm font-serif italic text-[#282828]/70 mt-1">"Creativity for business"</p>
+            </div>
+          </div>
         </div>
       </section>
 
